@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../CSS"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../baitapck"
+		},
+		{
+			"path": "../Tấn - home"
+		},
+		{
+			"path": "C:/xampp/htdocs/câu 1"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": ".vscode"
+	}
+}
